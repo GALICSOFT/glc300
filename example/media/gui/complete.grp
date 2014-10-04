@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<grp>
+	<bg>
+		<rec id=   "0"	x=  "66"	y= "122"	w= "389"	h= "252"	n= "complete_layer-9" file= "complete_layer-9" />
+		<rec id=   "1"	x=   "1"	y=  "63"	w=  "74"	h=  "92"	n= "complete_layer-1" file= "complete_layer-1" />
+		<rec id=   "2"	x= "442"	y=  "63"	w=  "70"	h=  "77"	n= "complete_layer-3" file= "complete_layer-3" />
+		<rec id=   "3"	x=  "37"	y= "155"	w=  "29"	h= "212"	n= "complete_layer-4" file= "complete_layer-4" />
+		<rec id=   "4"	x= "455"	y= "140"	w=  "22"	h= "216"	n= "complete_layer-5" file= "complete_layer-5" />
+		<rec id=   "5"	x=   "2"	y= "367"	w=  "73"	h=  "67"	n= "complete_layer-6" file= "complete_layer-6" />
+		<rec id=   "6"	x=  "75"	y= "367"	w= "367"	h=  "36"	n= "complete_layer-7" file= "complete_layer-7" />
+		<rec id=   "7"	x= "442"	y= "356"	w=  "58"	h=  "67"	n= "complete_layer-8" file= "complete_layer-8" />
+	</bg>
+	<tbar>
+		<rec id=   "0"	x=  "75"	y=   "0"	w= "367"	h= "122"	n= "complete_title" file= "complete_title" />
+	</tbar>
+
+	<mk id=   "0"	x= "124"	y= "166"	w=  "21"	h=  "21"	n= "complete_info-0" file= "complete_info-0" />
+	<mk id=   "1"	x= "124"	y= "219"	w=  "21"	h=  "21"	n= "complete_info-1" file= "complete_info-1" />
+
+	<sbtn id=   "0"	x= "418"	y=  "72"	w=  "74"	h=  "73"	n= "complete_sys-btn" file= "complete_sys-btn" />
+
+	<btn id=   "0"	x= "200"	y= "294"	w=  "73"	h=  "73"	n= "complete_btn_cancel" file= "complete_btn_cancel" />
+	<btn id=   "1"	x= "367"	y= "294"	w=  "73"	h=  "73"	n= "complete_btn_cancel2" file= "complete_btn_cancel" />
+	<btn id=   "2"	x= "283"	y= "294"	w=  "74"	h=  "73"	n= "complete_btn_ok" file= "complete_btn_ok" />
+</grp>

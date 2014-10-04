@@ -1,0 +1,29 @@
+http://www.vorbis.com/faq/#flic
+
+Licensing
+
+What licensing applies to the Ogg Vorbis format?
+		The Ogg Vorbis specification is in the public domain. It is completely free for commercial or noncommercial use.
+		That means that commercial developers may independently write Ogg Vorbis software which is compatible with the specification for no charge
+			and without restrictions of any kind.
+		However, the software packages we have developed are available under various free/open-source software licenses with varying allowances and restrictions.
+
+What licensing applies to the included Ogg Vorbis software?
+	Most (but not all) of our utility software is released under the terms of the GNU GPL.
+	The libraries and SDKs are released under our BSD-like license.
+	Note that developers are still free to use the specification to write implementations of Ogg Vorbis licensed under other terms.
+
+We make commercial, closed source software. Can I use Ogg Vorbis at all? What licensing do I need to pay?
+	Again, there are no licensing fees for ANY use of the Ogg Vorbis specification.
+	As a commercial developer, you are free to create and sell (or give away) open or closed source implementations of Vorbis encoders, decoders, or other tools.
+	However, if you use our software rather than writing an independent implementation, you must respect the terms of the license.
+	Our libraries are available under our BSD-like license and can be used whole or in part by closed source applications.
+
+Are there licensing fees for distributing, selling, or streaming media in the Ogg Vorbis format?
+	No.
+
+If there aren't any licensing fees, how are you going to make money off the format? Will you charge fees later, after Vorbis becomes popular?
+	The benefits of a patent-free, license-free format outweigh the concerns of making money directly from the format.
+	The Vorbis format will always be free and in the public domain.
+	Xiph.org is investigating a variety of models for funding development, some of which may include licensing non-free Vorbis-related programs and	libraries to commercial projects.
+	Nevertheless, the reference encoder and decoder will always be open source and third parties will always be free to modify or reimplement them.

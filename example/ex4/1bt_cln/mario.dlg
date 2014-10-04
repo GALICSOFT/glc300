@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+	<bg>
+		<rc id=   "0"	x=   "0"	y=   "0"	w=  "30"	h=  "36"	n= "mario_layer-1" file= "mario_layer-1" />
+		<rc id=   "1"	x=  "30"	y=   "2"	w=  "29"	h=  "31"	n= "mario_layer-2" file= "mario_layer-2" />
+		<rc id=   "2"	x=  "59"	y=   "3"	w=  "32"	h=  "30"	n= "mario_layer-3" file= "mario_layer-3" />
+		<rc id=   "3"	x=  "91"	y=   "3"	w=  "32"	h=  "31"	n= "mario_layer-4" file= "mario_layer-4" />
+		<rc id=   "4"	x= "123"	y=   "3"	w=  "32"	h=  "30"	n= "mario_layer-5" file= "mario_layer-5" />
+		<rc id=   "5"	x= "156"	y=   "1"	w=  "36"	h=  "32"	n= "mario_layer-6" file= "mario_layer-6" />
+	</bg>
+</layout>

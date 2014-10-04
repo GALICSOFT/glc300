@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="euc-kr"?>
+<!--
+	desc: 2d Model parts example
+
+	glc_pts
+		name : name is the base parts 2d model(Tdm) file name
+		name : 2d model xml name
+-->
+<glc_tds ver="1.0.0" name="boss01">
+
+	<glc_pts  name="boss01_leg" />
+
+	<glc_pts  name="boss01_head" />
+
+	<glc_pts  name="boss01_torso">
+		<rec name="boss01_shield" />
+		<rec name="boss01_sword" />
+	</glc_pts>
+
+</glc_tds>
+

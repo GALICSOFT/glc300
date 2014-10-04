@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<grp>
+	<bg>
+		<rec id=   "1"	x=   "0"	y=   "0"	w=  "60"	h=  "72"	n= "mario_layer_1" file= "mario_layer_1" />
+		<rec id=   "2"	x=  "60"	y=   "4"	w=  "58"	h=  "62"	n= "mario_layer_2" file= "mario_layer_2" />
+		<rec id=   "3"	x= "118"	y=   "6"	w=  "64"	h=  "60"	n= "mario_layer_3" file= "mario_layer_3" />
+		<rec id=   "4"	x= "182"	y=   "6"	w=  "64"	h=  "62"	n= "mario_layer_4" file= "mario_layer_4" />
+		<rec id=   "5"	x= "246"	y=   "6"	w=  "64"	h=  "60"	n= "mario_layer_5" file= "mario_layer_5" />
+		<rec id=   "6"	x= "312"	y=   "2"	w=  "72"	h=  "64"	n= "mario_layer_6" file= "mario_layer_6" />
+	</bg>
+</grp>

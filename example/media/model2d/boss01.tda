@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!--  -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="boss01.png" width="512" height="512">
+    <sprite n="attack_01" x="2" y="328" w="90" h="154" oX="118" oY="19" oW="320" oH="320"/>
+    <sprite n="attack_02" x="98" y="2" w="110" h="152" oX="118" oY="21" oW="320" oH="320"/>
+    <sprite n="attack_03" x="94" y="326" w="104" h="152" oX="117" oY="21" oW="320" oH="320"/>
+    <sprite n="attack_04" x="210" y="2" w="92" h="152" oX="117" oY="21" oW="320" oH="320"/>
+    <sprite n="attack_05" x="200" y="310" w="116" h="148" oX="117" oY="25" oW="320" oH="320"/>
+    <sprite n="attack_06" x="272" y="156" w="104" h="148" oX="118" oY="25" oW="320" oH="320"/>
+    <sprite n="dead_01" x="2" y="2" w="94" h="166" oX="117" oY="7" oW="320" oH="320"/>
+    <sprite n="dead_02" x="304" y="2" w="86" h="142" oX="115" oY="31" oW="320" oH="320"/>
+    <sprite n="dead_03" x="392" y="2" w="116" h="98" oX="102" oY="57" oW="320" oH="320" r="y"/>
+    <sprite n="dead_04" x="392" y="102" w="104" h="96" oX="104" oY="69" oW="320" oH="320" r="y"/>
+    <sprite n="dead_05" x="378" y="200" w="96" h="84" oX="111" oY="89" oW="320" oH="320"/>
+    <sprite n="move_01" x="2" y="170" w="86" h="156" oX="118" oY="17" oW="320" oH="320"/>
+    <sprite n="move_02" x="178" y="156" w="92" h="152" oX="113" oY="21" oW="320" oH="320"/>
+    <sprite n="move_03" x="90" y="170" w="86" h="154" oX="118" oY="19" oW="320" oH="320"/>
+</TextureAtlas>

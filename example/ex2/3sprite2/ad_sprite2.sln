@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ad_sprite2", "ad_sprite2.vcproj", "{36CB8F57-076B-4D51-8C75-A55F0EFB8AA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36CB8F57-076B-4D51-8C75-A55F0EFB8AA8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{36CB8F57-076B-4D51-8C75-A55F0EFB8AA8}.Debug|Win32.Build.0 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

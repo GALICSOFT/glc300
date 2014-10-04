@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<etb>
+	<rec n="0" x="100" rot="34" begin ="0" delta ="20"  sx="2.0" sy="2.0" file="charcull"/>
+	<rec n="1" x="0" y="0" z="0" sx="1.0" sy="1.0" sz="1.0" begin ="1000"    delta ="40" red="2.0" green="0.0" blue="0.0" alpha="0.1" file="attack"/>
+	<rec n="2" x="100" y="0" z="0" begin ="0" delta ="60" file="blue_buf"/>
+	<rec n="3" x="0" sx="1.5" sy="1.5" rot="45" begin ="500" delta ="60" file="blue_sealer"/>
+</etb>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+	<bg>
+		<rc id=   "0"	x=   "2"	y=   "1"	w= "252"	h= "126"	n= "portion_layer-1" file= "portion_layer-1" />
+		<rc id=   "1"	x= "258"	y=   "1"	w= "252"	h= "126"	n= "portion_layer-2" file= "portion_layer-2" />
+		<rc id=   "2"	x= "514"	y=   "1"	w= "252"	h= "126"	n= "portion_layer-3" file= "portion_layer-3" />
+		<rc id=   "3"	x= "770"	y=   "1"	w= "252"	h= "126"	n= "portion_layer-4" file= "portion_layer-4" />
+		<rc id=   "4"	x=   "2"	y= "129"	w= "252"	h= "126"	n= "portion_layer-5" file= "portion_layer-5" />
+		<rc id=   "5"	x= "258"	y= "129"	w= "252"	h= "126"	n= "portion_layer-6" file= "portion_layer-6" />
+		<rc id=   "6"	x= "514"	y= "129"	w= "252"	h= "126"	n= "portion_layer-7" file= "portion_layer-7" />
+		<rc id=   "7"	x= "770"	y= "129"	w= "252"	h= "126"	n= "portion_layer-8" file= "portion_layer-8" />
+	</bg>
+</layout>

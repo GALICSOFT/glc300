@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!--  -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="portion.png" width="512" height="512">
+    <sprite n="portion_layer-1" x="253" y="381" w="252" h="126"/>
+    <sprite n="portion_layer-2" x="253" y="254" w="252" h="126"/>
+    <sprite n="portion_layer-3" x="0" y="381" w="252" h="126"/>
+    <sprite n="portion_layer-4" x="0" y="254" w="252" h="126"/>
+    <sprite n="portion_layer-5" x="253" y="127" w="252" h="126"/>
+    <sprite n="portion_layer-6" x="0" y="127" w="252" h="126"/>
+    <sprite n="portion_layer-7" x="253" y="0" w="252" h="126"/>
+    <sprite n="portion_layer-8" x="0" y="0" w="252" h="126"/>
+</TextureAtlas>

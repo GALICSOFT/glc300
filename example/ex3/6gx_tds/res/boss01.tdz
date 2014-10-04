@@ -1,0 +1,28 @@
+--[[
+--
+--	desc: 2d Model parts example
+--
+--	PtsVer	parts version
+
+--	PtsLst	name : name is the base parts 2d model(Tdm) file name
+--		Rec* : sub parts list
+--]]
+
+PtsVer	1.0.0
+
+PtsLst	boss01_leg
+{
+}
+
+
+PtsLst	boss01_head
+{
+}
+
+
+PtsLst	boss01_torso
+{
+	//Rec*	boss01_shield
+	//Rec*	boss01_sword
+}
+

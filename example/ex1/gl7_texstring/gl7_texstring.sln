@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gl7_texstring", "gl7_texstring.vcproj", "{AD7B878A-520B-4DFE-B0A7-92CCE03EF62A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD7B878A-520B-4DFE-B0A7-92CCE03EF62A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AD7B878A-520B-4DFE-B0A7-92CCE03EF62A}.Debug|Win32.Build.0 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

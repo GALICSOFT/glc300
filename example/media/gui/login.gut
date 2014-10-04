@@ -1,0 +1,49 @@
+///////////////////////////////////////////////////////////////////////////////
+// dialog data
+//
+// RectLRBT: if there is defined RectLRBT  then the ui rect is left, right, bottom, up
+// default is 0 or not defined
+//
+// Rsc: Resource Info, Rec: Record
+
+RectLRBT	1				// The region of rect is left, right, bottom, and top
+
+Texture	"login.png"			// texture name
+
+GuiButton "Start 1"			// name
+{
+	Index	0
+	Rsc* 150 15 216 34		// normal
+	Rsc* 150 34 216 53		// over
+	Rsc* 150 53 216 72		// pressed
+}
+
+GuiButton "Start 2"
+{
+	Index	1
+	Rsc* 150  80 216  99
+	Rsc* 150  99 216 118
+	Rsc* 150 118 216 137
+}
+
+GuiSysBtn "sys button1"		// system button
+{
+	Index	2
+	Rsc* 150  0  166  13
+	Rsc* 170  0  186  13
+	Rsc* 190  0  206  13
+}
+
+GuiDialog "Login"			// dialog name
+{
+	Index	3				// index
+	RscId	1001			// id
+	Rsc* 120  120  148  196	// Event: region is only x, y, width, height. it's not depend the graphics.
+	Rsc* 0  0  148   23		// Title
+	Rsc* 0 23  148  196		// body
+
+	Rec* 101   2  125   4	// Id = 101  resource index = 2 position x, y
+	Rec* 102   0    7 170	// Id = 102  resource index = 0 position x, y
+	Rec* 103   1   75 170	// Id = 103  resource index = 1 position x, y
+}
+

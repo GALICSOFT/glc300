@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="burning_explosion.png" width="128" height="256">
+    <sprite n="0" x="30" y="153" w="28" h="22" oX="17" oY="23" oW="64" oH="64"/>
+    <sprite n="1" x="1" y="209" w="28" h="24" oX="17" oY="22" oW="64" oH="64"/>
+    <sprite n="2" x="1" y="180" w="28" h="28" oX="17" oY="20" oW="64" oH="64"/>
+    <sprite n="3" x="1" y="151" w="28" h="28" oX="16" oY="21" oW="64" oH="64"/>
+    <sprite n="4" x="30" y="122" w="28" h="30" oX="16" oY="20" oW="64" oH="64"/>
+    <sprite n="5" x="1" y="118" w="28" h="32" oX="16" oY="20" oW="64" oH="64"/>
+    <sprite n="6" x="1" y="85" w="30" h="32" oX="16" oY="20" oW="64" oH="64"/>
+    <sprite n="7" x="87" y="118" w="32" h="34" oX="16" oY="19" oW="64" oH="64"/>
+    <sprite n="8" x="93" y="81" w="34" h="36" oX="14" oY="18" oW="64" oH="64"/>
+    <sprite n="9" x="93" y="44" w="34" h="36" oX="15" oY="18" oW="64" oH="64"/>
+    <sprite n="10" x="48" y="83" w="38" h="38" oX="11" oY="17" oW="64" oH="64"/>
+    <sprite n="11" x="48" y="44" w="44" h="38" oX="9" oY="16" oW="64" oH="64"/>
+    <sprite n="12" x="1" y="44" w="46" h="40" oX="8" oY="14" oW="64" oH="64"/>
+    <sprite n="13" x="54" y="1" w="48" h="42" oX="9" oY="13" oW="64" oH="64"/>
+    <sprite n="14" x="1" y="1" w="52" h="42" oX="5" oY="12" oW="64" oH="64"/>
+</TextureAtlas>

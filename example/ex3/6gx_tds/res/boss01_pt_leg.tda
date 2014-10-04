@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="boss01_pt_leg.png" width="256" height="256">
+    <sprite n="boss01_leg_attack_01" x="2" y="62" w="82" h="62" oX="118" oY="111" oW="320" oH="320"/>
+    <sprite n="boss01_leg_attack_02" x="172" y="86" w="82" h="62" oX="118" oY="111" oW="320" oH="320"/>
+    <sprite n="boss01_leg_attack_03" x="88" y="60" w="82" h="62" oX="118" oY="111" oW="320" oH="320"/>
+    <sprite n="boss01_leg_attack_04" x="2" y="126" w="82" h="60" oX="118" oY="113" oW="320" oH="320"/>
+    <sprite n="boss01_leg_attack_05" x="88" y="2" w="84" h="56" oX="117" oY="117" oW="320" oH="320"/>
+    <sprite n="boss01_leg_attack_06" x="86" y="124" w="82" h="60" oX="118" oY="113" oW="320" oH="320"/>
+    <sprite n="boss01_leg_move_01" x="170" y="150" w="82" h="44" oX="118" oY="129" oW="320" oH="320"/>
+    <sprite n="boss01_leg_move_02" x="174" y="2" w="62" h="82" oX="118" oY="111" oW="320" oH="320" r="y"/>
+    <sprite n="boss01_leg_move_03" x="2" y="2" w="84" h="58" oX="118" oY="115" oW="320" oH="320"/>
+</TextureAtlas>

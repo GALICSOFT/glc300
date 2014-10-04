@@ -1,0 +1,58 @@
+--[[
+--
+-- desc: Animation 2d sprite
+-- sequence time is base on the millisecond
+--
+-- SptVer sprite version
+--
+-- SptAni "animation_name"
+-- repeat animation_count
+--        -1 is infinite. others(0<) are animation repeat count
+--
+-- next   "animation_name": after current animation.
+--        last_frame is the Rec* last, first_frame is the Rec* first.
+--        if threre is not next,  the default next_frame is last for not infinite animation.
+
+-- Rec*		animation sequence with millisecond time
+--          Rec* sequence_time   tsa_filename   tsa_record_name
+--
+--]]
+
+SptVer	1.0.0
+
+SptAni	move
+{
+	repeat	-1
+
+	Rec*	0		boss01	move_01
+	Rec*	100		boss01	move_02
+	Rec*	200		boss01	move_03
+	Rec*	300		boss01	move_03
+}
+
+SptAni	attack
+{
+	repeat	1
+	next	move
+
+	Rec*	0		boss01	attack_01
+	Rec*	100		boss01	attack_02
+	Rec*	200		boss01	attack_03
+	Rec*	300		boss01	attack_04
+	Rec*	400		boss01	attack_05
+	Rec*	500		boss01	attack_06
+	Rec*	600		boss01	attack_06
+}
+
+SptAni	dead
+{
+	repeat	1
+
+	Rec*	0		boss01	dead_01
+	Rec*	100		boss01	dead_02
+	Rec*	200		boss01	dead_03
+	Rec*	300		boss01	dead_04
+	Rec*	400		boss01	dead_05
+	Rec*	500		boss01	dead_05
+}
+

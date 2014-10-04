@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!--  -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="login_new.png" width="512" height="512">
+    <sprite n="login_new_btn-about" x="2" y="96" w="251" h="106"/>
+    <sprite n="login_new_btn-login_new" x="255" y="300" w="251" h="107"/>
+    <sprite n="login_new_btn-logout" x="2" y="300" w="251" h="108"/>
+    <sprite n="login_new_layer-1" x="437" y="56" w="54" h="47"/>
+    <sprite n="login_new_layer-2" x="2" y="204" w="291" h="47"/>
+    <sprite n="login_new_layer-3" x="437" y="159" w="46" h="45"/>
+    <sprite n="login_new_layer-4" x="333" y="2" w="54" h="296"/>
+    <sprite n="login_new_layer-5" x="437" y="206" w="32" h="32"/>
+    <sprite n="login_new_layer-6" x="389" y="2" w="46" h="296"/>
+    <sprite n="login_new_layer-7" x="437" y="2" w="53" h="52"/>
+    <sprite n="login_new_layer-8" x="2" y="410" w="291" h="52"/>
+    <sprite n="login_new_layer-9" x="437" y="105" w="45" h="52"/>
+    <sprite n="login_new_title" x="2" y="2" w="329" h="92"/>
+</TextureAtlas>

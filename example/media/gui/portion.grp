@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<grp>
+	<bg>
+		<rec id=   "0"	x=   "2"	y=   "1"	w= "252"	h= "126"	n= "portion_layer-1" file= "portion_layer-1" />
+		<rec id=   "1"	x= "258"	y=   "1"	w= "252"	h= "126"	n= "portion_layer-2" file= "portion_layer-2" />
+		<rec id=   "2"	x= "514"	y=   "1"	w= "252"	h= "126"	n= "portion_layer-3" file= "portion_layer-3" />
+		<rec id=   "3"	x= "770"	y=   "1"	w= "252"	h= "126"	n= "portion_layer-4" file= "portion_layer-4" />
+		<rec id=   "4"	x=   "2"	y= "129"	w= "252"	h= "126"	n= "portion_layer-5" file= "portion_layer-5" />
+		<rec id=   "5"	x= "258"	y= "129"	w= "252"	h= "126"	n= "portion_layer-6" file= "portion_layer-6" />
+		<rec id=   "6"	x= "514"	y= "129"	w= "252"	h= "126"	n= "portion_layer-7" file= "portion_layer-7" />
+		<rec id=   "7"	x= "770"	y= "129"	w= "252"	h= "126"	n= "portion_layer-8" file= "portion_layer-8" />
+	</bg>
+</grp>

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4gt_tbl", "4gt_tbl.vcproj", "{3BA472A5-0A52-4CD4-997D-088B2E957665}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BA472A5-0A52-4CD4-997D-088B2E957665}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3BA472A5-0A52-4CD4-997D-088B2E957665}.Debug|Win32.Build.0 = Debug|Win32
+		{3BA472A5-0A52-4CD4-997D-088B2E957665}.Release|Win32.ActiveCfg = Release|Win32
+		{3BA472A5-0A52-4CD4-997D-088B2E957665}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

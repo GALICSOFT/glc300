@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bt_svr", "bt_svr.vcproj", "{FD7A8ED5-1266-439F-9A40-B5C45D008769}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD7A8ED5-1266-439F-9A40-B5C45D008769}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FD7A8ED5-1266-439F-9A40-B5C45D008769}.Debug|Win32.Build.0 = Debug|Win32
+		{FD7A8ED5-1266-439F-9A40-B5C45D008769}.Release|Win32.ActiveCfg = Release|Win32
+		{FD7A8ED5-1266-439F-9A40-B5C45D008769}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

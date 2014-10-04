@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<grp>
+	<ani imagePath="mario.png" width="128" height="128">
+		<sprite n="mario_layer-1" x="40" y="35" w="30" h="36"/>
+		<sprite n="mario_layer-2" x="2" y="36" w="29" h="31"/>
+		<sprite n="mario_layer-3" x="74" y="34" w="32" h="30"/>
+	</ani>
+
+	<dialog>
+		<bg>
+			<rc id=   "0"	x=   "2"	y=   "1"	w= "252"	h= "126"	n= "portion_layer-1" file= "portion_layer-1" />
+			<rc id=   "1"	x= "258"	y=   "1"	w= "252"	h= "126"	n= "portion_layer-2" file= "portion_layer-2" />
+			<rc id=   "2"	x= "514"	y=   "1"	w= "252"	h= "126"	n= "portion_layer-3" file= "portion_layer-3" />
+		</bg>
+	</dialog>
+</grp>
+
+

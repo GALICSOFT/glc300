@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gl4_tex", "gl4_tex.vcproj", "{E142B918-6FB9-40DF-B3EB-3C74C311D0FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E142B918-6FB9-40DF-B3EB-3C74C311D0FF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E142B918-6FB9-40DF-B3EB-3C74C311D0FF}.Debug|Win32.Build.0 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

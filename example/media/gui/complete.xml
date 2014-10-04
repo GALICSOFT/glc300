@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!--  -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="complete.png" width="512" height="512">
+    <sprite n="complete_btn_cancel" x="417" y="77" w="73" h="73"/>
+    <sprite n="complete_btn_ok" x="417" y="2" w="74" h="73"/>
+    <sprite n="complete_info-0" x="416" y="220" w="21" h="21"/>
+    <sprite n="complete_info-1" x="393" y="220" w="21" h="21"/>
+    <sprite n="complete_layer-1" x="402" y="243" w="74" h="92"/>
+    <sprite n="complete_layer-3" x="402" y="337" w="70" h="77"/>
+    <sprite n="complete_layer-4" x="371" y="256" w="29" h="212"/>
+    <sprite n="complete_layer-5" x="393" y="2" w="22" h="216"/>
+    <sprite n="complete_layer-6" x="2" y="418" w="73" h="67"/>
+    <sprite n="complete_layer-7" x="2" y="380" w="367" h="36"/>
+    <sprite n="complete_layer-8" x="439" y="152" w="58" h="67"/>
+    <sprite n="complete_layer-9" x="2" y="2" w="389" h="252"/>
+    <sprite n="complete_sys-btn" x="402" y="416" w="74" h="73"/>
+    <sprite n="complete_title" x="2" y="256" w="367" h="122"/>
+</TextureAtlas>

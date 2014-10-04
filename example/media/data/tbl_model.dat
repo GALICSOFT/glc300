@@ -1,0 +1,60 @@
+////////////////////////////////////////////////////
+//
+
+Version	1.0.1
+
+TbMst	0
+{
+	MstName		billboard
+
+	TbSub	0
+	{
+		SubName	Grass
+		SubPath	model/2d/
+
+		Rec*	md200.lsx
+		Rec*	md201.lsx
+		Rec*	md202.lsx
+		Rec*	md203.lsx
+		Rec*	md204.lsx
+		Rec*	md205.lsx
+		Rec*	md206.lsx
+	}
+
+	TbSub	1
+	{
+		SubName	Bush
+		SubPath	model/2d/
+
+		Rec*	md207.lsx
+		Rec*	md208.lsx
+		Rec*	md209.lsx
+	}
+}
+
+TbMst	1
+{
+	MstName		solid
+
+	TbSub	0
+	{
+		SubName	Tree
+		SubPath	model/3d/
+
+		Rec*	tree01.lst
+		Rec*	tree02.lst
+		Rec*	tree03.lst
+		Rec*	tree04.lst
+		Rec*	pine.gpmf
+	}
+
+	TbSub	1
+	{
+		SubName	Rock
+		SubPath	model/3d/
+
+		Rec*	rock01.lst
+		Rec*	rock02.lst
+	}
+}
+

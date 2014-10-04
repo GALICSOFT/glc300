@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<grp>
+	<bg>
+		<rec id=   "0"	x=   "3"	y=  "82"	w=  "54"	h=  "47"	n= "login_new_layer-1" file= "login_new_layer-1" />
+		<rec id=   "1"	x=  "57"	y=  "82"	w= "291"	h=  "47"	n= "login_new_layer-2" file= "login_new_layer-2" />
+		<rec id=   "2"	x= "348"	y=  "84"	w=  "46"	h=  "45"	n= "login_new_layer-3" file= "login_new_layer-3" />
+		<rec id=   "3"	x=   "3"	y= "129"	w=  "54"	h= "296"	n= "login_new_layer-4" file= "login_new_layer-4" />
+		<rec id=   "4"	x=  "57"	y= "129"	w= "291"	h= "296"	n= "login_new_layer-5" file= "login_new_layer-5" />
+		<rec id=   "5"	x= "348"	y= "129"	w=  "46"	h= "296"	n= "login_new_layer-6" file= "login_new_layer-6" />
+		<rec id=   "6"	x=   "4"	y= "425"	w=  "53"	h=  "52"	n= "login_new_layer-7" file= "login_new_layer-7" />
+		<rec id=   "7"	x=  "57"	y= "425"	w= "291"	h=  "52"	n= "login_new_layer-8" file= "login_new_layer-8" />
+		<rec id=   "8"	x= "348"	y= "425"	w=  "45"	h=  "52"	n= "login_new_layer-9" file= "login_new_layer-9" />
+	</bg>
+	<tbar>
+		<rec id=   "0"	x=  "34"	y=   "4"	w= "329"	h=  "92"	n= "login_new_title" file= "login_new_title" />
+	</tbar>
+
+
+	<btn id=   "0"	x=  "77"	y= "107"	w= "251"	h= "107"	n= "login_new_btn-login_new" file= "login_new_btn-login_new" />
+	<btn id=   "1"	x=  "77"	y= "223"	w= "251"	h= "108"	n= "login_new_btn-logout" file= "login_new_btn-logout" />
+	<btn id=   "2"	x=  "76"	y= "339"	w= "251"	h= "106"	n= "login_new_btn-about" file= "login_new_btn-about" />
+</grp>

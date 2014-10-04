@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<glc_tdm ver="1.0.0">
+	<spt_ani name="attack" next="move" repeat="1">
+		<rec time=  "0" file="boss01_pt_torso" sprite="boss01_torso_attack_01" />
+		<rec time="200" file="boss01_pt_torso" sprite="boss01_torso_attack_02" />
+		<rec time="400" file="boss01_pt_torso" sprite="boss01_torso_attack_03" />
+		<rec time="600" file="boss01_pt_torso" sprite="boss01_torso_attack_04" />
+		<rec time="800" file="boss01_pt_torso" sprite="boss01_torso_attack_05" />
+		<rec time="1000"file="boss01_pt_torso" sprite="boss01_torso_attack_06" />
+		<rec time="1200"file="boss01_pt_torso" sprite="boss01_torso_attack_06" />
+	</spt_ani>
+	<spt_ani name="move" next="" repeat="-1">
+		<rec time=  "0" file="boss01_pt_torso" sprite="boss01_torso_move_01" />
+		<rec time="200" file="boss01_pt_torso" sprite="boss01_torso_move_02" />
+		<rec time="400" file="boss01_pt_torso" sprite="boss01_torso_move_03" />
+		<rec time="600" file="boss01_pt_torso" sprite="boss01_torso_move_03" />
+	</spt_ani>
+</glc_tdm>
+

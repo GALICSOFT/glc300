@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="charcull.png" width="256" height="256">
+    <sprite n="0" x="150" y="97" w="46" h="46" oX="9" oY="9" oW="64" oH="64"/>
+    <sprite n="1" x="52" y="142" w="46" h="46" oX="9" oY="9" oW="64" oH="64"/>
+    <sprite n="2" x="1" y="95" w="48" h="48" oX="7" oY="7" oW="64" oH="64"/>
+    <sprite n="3" x="101" y="97" w="48" h="46" oX="7" oY="9" oW="64" oH="64"/>
+    <sprite n="4" x="152" y="50" w="50" h="46" oX="6" oY="9" oW="64" oH="64"/>
+    <sprite n="5" x="101" y="50" w="50" h="46" oX="6" oY="9" oW="64" oH="64"/>
+    <sprite n="6" x="1" y="191" w="50" h="46" oX="6" oY="9" oW="64" oH="64"/>
+    <sprite n="7" x="50" y="95" w="50" h="46" oX="6" oY="9" oW="64" oH="64"/>
+    <sprite n="8" x="1" y="144" w="50" h="46" oX="6" oY="8" oW="64" oH="64"/>
+    <sprite n="9" x="203" y="95" w="48" h="46" oX="8" oY="8" oW="64" oH="64"/>
+    <sprite n="10" x="205" y="48" w="50" h="46" oX="7" oY="7" oW="64" oH="64"/>
+    <sprite n="11" x="205" y="1" w="50" h="46" oX="6" oY="7" oW="64" oH="64"/>
+    <sprite n="12" x="103" y="1" w="50" h="48" oX="7" oY="6" oW="64" oH="64"/>
+    <sprite n="13" x="52" y="1" w="50" h="48" oX="7" oY="6" oW="64" oH="64"/>
+    <sprite n="14" x="1" y="1" w="50" h="48" oX="7" oY="6" oW="64" oH="64"/>
+    <sprite n="15" x="154" y="1" w="50" h="48" oX="7" oY="7" oW="64" oH="64"/>
+</TextureAtlas>

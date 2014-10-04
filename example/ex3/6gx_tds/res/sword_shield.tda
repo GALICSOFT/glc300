@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="sword_shield.png" width="256" height="512">
+    <sprite n="shield_attack_01" x="196" y="42" w="58" h="66" oX="258" oY="204" oW="600" oH="600"/>
+    <sprite n="shield_attack_02" x="196" y="42" w="58" h="66" oX="273" oY="198" oW="600" oH="600"/>
+    <sprite n="shield_attack_03" x="196" y="42" w="58" h="66" oX="303" oY="190" oW="600" oH="600"/>
+    <sprite n="shield_attack_04" x="196" y="42" w="58" h="66" oX="290" oY="188" oW="600" oH="600"/>
+    <sprite n="shield_attack_05" x="196" y="42" w="58" h="66" oX="290" oY="203" oW="600" oH="600"/>
+    <sprite n="shield_attack_06" x="196" y="42" w="58" h="66" oX="281" oY="194" oW="600" oH="600"/>
+    <sprite n="shield_move_01" x="196" y="42" w="58" h="66" oX="286" oY="215" oW="600" oH="600"/>
+    <sprite n="shield_move_02" x="196" y="42" w="58" h="66" oX="299" oY="203" oW="600" oH="600"/>
+    <sprite n="shield_move_03" x="196" y="42" w="58" h="66" oX="286" oY="202" oW="600" oH="600"/>
+    <sprite n="sword_attack_01" x="2" y="42" w="192" h="154" oX="339" oY="53" oW="600" oH="600"/>
+    <sprite n="sword_attack_02" x="2" y="2" w="238" h="38" oX="348" oY="194" oW="600" oH="600"/>
+    <sprite n="sword_attack_03" x="2" y="2" w="238" h="38" oX="341" oY="198" oW="600" oH="600"/>
+    <sprite n="sword_attack_04" x="2" y="198" w="188" h="158" oX="335" oY="53" oW="600" oH="600"/>
+    <sprite n="sword_attack_05" x="2" y="198" w="188" h="158" oX="324" oY="60" oW="600" oH="600"/>
+    <sprite n="sword_attack_06" x="2" y="358" w="98" h="124" oX="328" oY="113" oW="600" oH="600" r="y"/>
+    <sprite n="sword_move_01" x="102" y="358" w="110" h="96" oX="281" oY="255" oW="600" oH="600"/>
+    <sprite n="sword_move_02" x="196" y="110" w="40" h="118" oX="250" oY="248" oW="600" oH="600"/>
+    <sprite n="sword_move_03" x="192" y="230" w="60" h="114" oX="301" oY="241" oW="600" oH="600" r="y"/>
+</TextureAtlas>
